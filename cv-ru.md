@@ -44,64 +44,63 @@
 
 До этого 4 года работал разработчиком браузерных игр. Сделал более 10 успешных сольных проектов и более 20 проектов на заказ. Есть опыт системного администрирования и преподавания информационных технологий. Есть опыт и государственная квалификация управленческой работы. Я заряжен на быстрый профессиональный рост, т.к. имею профильный опыт, профильное высшее образование и большой опыт в смежных областях. Регулярно повышаю квалификацию: прохожу профессиональные курсы, делаю пет-прожекты. Свободно читаю документацию и техническую литературу на английском языке.
 
-В настоящее время рассматриваю возможность перехода на удалённую фултайм работу React-разработчиком, без управленческой нагрузки. Интересуемый уровень оплаты — `$1400+`. Не рассматриваю IT-отделы не профильных предприятий и чистую вёрстку. Временно не рассматриваю управленческие должности. Готов выполнить тестовое задание после общения с HR.
+В настоящее время рассматриваю возможность перехода на удалённую/гибридную фултайм работу  веб-разработчиком, без управленческой нагрузки. Интересуемый уровень оплаты — `$1400+`. Не рассматриваю IT-отделы не профильных предприятий и чистую вёрстку. Временно не рассматриваю управленческие должности. Готов выполнить тестовое задание после общения с HR.
 
 ---
 
 ## Опыт
 
-### Freelance Web Developer
-*(April 2021 - present)* 
+### Веб-разработчик, фрилансер
+*(Апрель 2021 - по настоящее время)* – проектная деятельность
 
 
-#### European House
-* **Main project:** [ikea-39.ru](https://ikea-39.ru/)
-* **Tasks:** development of a product catalog, integration with services; full stack: planning, frontend, backend, deploy.
-* **Technologies:** React, Redux, Sass, pug, Wordpress, Node.js, express, gulp, webpack, linux, ssh.
+#### Клиент: Европейский Дом
+* **Основной проект:** [ikea-39.ru](https://ikea-39.ru/), v2: [dev.ikea-39.com](https://ikea-39.com/)
+* **Задачи:** разработка каталога товаров, интеграция с сервисами; фуллстак: планирование, фронтэнд, бэкэнд, деплой.
+* **Технологии:** `React`, `NextJS`, `Redux`, `Sass`, `pug`, `Wordpress`, `Node.js`, `express`, `webpack`, `linux`, `ssh`.
 
-#### "ЭКСКО" - an independent expert organization
-* **Main project:** [excopro.ru](https://excopro.ru/)
-* **Tasks:** development of company websites and internal tools, consulting.
-* **Technologies:** HTML, CSS, JavaScript, Wordpress, React, Redux, SCSS, pug, gulp, webpack.
+#### Клиент: "ЭКСКО" - независимая экспертная организация
+* **Основной проект:** [excopro.ru](https://excopro.ru/)
+* **Задачи:** разработка сайтов компании и внутренних инструментов, консалтинг.
+* **Технологии:** `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Wordpress`, `SCSS`, `pug`, `gulp`, `webpack`.
 
 #### JAST Holding
-* **Tasks:** development of sites and landing pages for company projects, development of company catalogs, consulting.
-* **Technologies:** HTML, CSS, JavaScript, Wordpress, React, SCSS, pug, gulp, webpack.
+* **Задачи:** разработка и обновление лэндингов для проектов компании, разработка каталогов компании, консалтинг.
+* **Технологии:** `HTML`, `CSS`, `JavaScript`, `NextJS`, `React`, `Wordpress`, `SCSS`, `pug`, `gulp`, `webpack`.
+---
 
+### JAST Holding / Веб-разработчик, Руководитель команды (Team Lead)
+*(Сентябрь 2019 — Март 2021)* 
+<!-- * **Основной проект:** -->
+* **Задачи:** разработка и обновление многостраничных сайтов и лэндингов для проектов компании, разработка внутренней информационной системы, координировал работу дизайнеров, копирайтеров и подрядчиков.
+* **Технологии:** `HTML`, `CSS`, `JavaScript`, `Wordpress`, `SCSS`, `pug`, `gulp`, `webpack`
+* **Планирование:** `Scrum`, `Kanban`.
 
-### JAST Holding / Web Developer, Team Lead
-*(September 2019 — March 2021)* 
-<!-- * **Main project:** -->
-* **Tasks:** development of sites and landing pages for company projects, development of an internal CRM, coordinating the work of designers, copywriters and contractors.
-* **Technologies:** HTML, CSS, JavaScript, Wordpress, SCSS, pug, gulp, webpack
-* **Planning:** Scrum, Kanban.
+---
+### Франшиза барбершопов OldBoy / Веб-разработчик, Технический директор (CTO)
+*(Ноябрь 2016 — Август 2019)* 
 
+* **Основной проект:** [oldboybarbershop.com](https://oldboybarbershop.com/)
+* **Задачи:** разработка и обновление многостраничных сайтов и лэндингов для проектов компании, разработка внутренних инструментов компании, координировал работу младших разработчиков, дизайнеров, копирайтеров, маркетологов и подрядчиков.
+* **Достижения:** с нуля создал отдел разработки, участвовал в найме сотрудников и планировании работы, под моим руководством и непосредственным участием (frontend) разработали и запустили 3ю версию портала франшизы, более чем в 2 раза увеличили относительные показатели онлайн-записей в филиалы франшизы.
+* **Технологии:** `HTML`, `CSS`, `JavaScript`, `Wordpress`, `SCSS`, `pug`, `gulp`, `webpack`, `PHP`.
+* **Планирование:** `Scrum`, `Kanban`.
 
-### OldBoy Barbershop Franchise / Web developer, CTO
-*(November 2016 — August 2019)* 
+---
+### Веб-разработчик, фрилансер
+*(Август 2015 — Ноябрь 2016)*
 
-* **Main project:** [oldboybarbershop.com](https://oldboybarbershop.com/)
-* **Tasks:** development of websites and landing pages for company projects, development of internal company tools, coordinated the work of junior developers, designers, copywriters, marketers and contractors.
-* **Achievements:** created a development department from scratch, under my leadership and direct participation (frontend) developed we launched the 3rd version of the franchise portal, which more than doubled the rates of online entries in franchise branches.
-* **Technologies:** HTML, CSS, JavaScript, Wordpress, SCSS, pug, gulp, webpack, PHP.
-* **Planning:** Scrum, Kanban.
-
-
-### Freelance Web developer
-*(August 2015 — November 2016)*
-
-* **Tasks:** development of Wordpress sites with custom themes, development of landing pages
-* **Technologies:** HTML, CSS, JavaScript, Wordpress, SCSS, gulp, Photoshop
-* **Planning:** Kanban
+* **Задачи:** вёрстка макетов для клиентов, разработка caйтов на wordpress с кастомными темами, вёрстка лэндингов
+* **Технологии:** `HTML`, `CSS`, `JavaScript`, `Wordpress`, `SCSS`, `gulp`, `Photoshop`
+* **Планирование:** `Kanban`
 
 ---
 
-## Education
+## Образование
 
-* 2001-2006 Baltic Fishing Fleet State Academy / Master of Computer Applications - MCA
+* 2001-2006 БГА РФ (Балтийская Государственная Академия Рыбопромыслового Флота) / АСОИУ (Автомитизированные Системы Обработки Информации и Управления)
 
-## Languages
-* **English** - Professional Working (B2)
-* **Russian** - Native
-* **Ukrainian** - Native / Professional Working
-* **Spanish** - Elementary
+## Языки
+* **Английский** - Профессиональный рабочий (B2)
+* **Русский** - Родной
+* **Испанский** - Базовый
