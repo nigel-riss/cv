@@ -50,7 +50,7 @@ I am a frontend developer with a particular interest in interfaces and visualiza
 
 
 #### European House
-* **Main project:** [ikea-39.ru](https://ikea-39.ru/)
+* **Main project:** https://ikeaspb.ru/ (in development)
 * **Tasks:** development of a product catalog, integration with services; full stack: planning, frontend, backend, deploy.
 * **Technologies:** React, Redux, Sass, pug, Wordpress, Node.js, express, gulp, webpack, linux, ssh.
 
