@@ -36,10 +36,14 @@ I am a frontend developer with a particular interest in interfaces and visualiza
 * `Touch typing`
 * `Project management`
 
-### Limited experience 
-* `PHP`, `Python`, `C`, `C++`, `Bash`, `Unreal Engine`, `Canvas`
-* `Vue 3`
+### Actively learning
+* `Python`, `Lua`
+* `WebGl`, `Three.js`
 * `Vim` *(Esc -> :q! ;)*
+
+### Limited experience 
+* `PHP`, `C`, `C++`, `Bash`, `Unreal Engine`, `Canvas`
+* `Vue 3`
 
 ---
 
